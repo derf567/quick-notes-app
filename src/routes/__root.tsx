@@ -81,7 +81,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Tableflow — Restaurant Workspace" },
+      { title: "Villa Rosal — Restaurant Workspace" },
       { name: "description", content: "A smoother service, from cashier to kitchen." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
